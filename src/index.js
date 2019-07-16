@@ -14,10 +14,10 @@ const App = () => (
 
         <ul>
           <li><a href="/awesome-road-bike">Awesome Road Bike!</a> - A curated list of road bike related stuff!</li>
+          <li><a href="/gear-ratios">Gear Ratios!</a> - A bike calculator that displays gear ratios and speed.</li>
         </ul>
-        <p>... more to come!</p>
 
-        <p>If you have any feedback or questions please <a href="javascript:void" onClick={() => window.location = 'mailto:hello@velox.cc' }>contact us</a>.</p>
+        <p>If you have any feedback or questions please <a href="mailto:hello@velox.cc">contact us</a>.</p>
       </main>
     </header>
   </div>
